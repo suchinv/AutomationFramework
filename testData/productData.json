@@ -1,0 +1,11 @@
+[
+    { "product1": "Sauce Labs Bike Light", 
+       "product2": "Sauce Labs Onesie",
+       "product3":"Sauce Labs Backpack",
+       "standardUserName": "standard_user",
+    "standardPassword": "secret_sauce",
+    "firstName":"sita",
+    "lastName":"raja",
+    "zipcode":"500090"
+     }
+]

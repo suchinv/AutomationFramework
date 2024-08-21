@@ -1,0 +1,10 @@
+[
+{
+    "standardUserName": "standard_user",
+    "standardPassword": "secret_sauce",
+    "problemUserName": "problem_user",
+    "problemPassword": "secret_sauce",
+    "errorUserName": "error_user",
+    "errorPassword": "secret_sauce"
+  }
+]
